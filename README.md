@@ -16,7 +16,7 @@ ___
 ### Quick Start 
 _Import Yotpo-go package_
 ```
-go git https://github.com/william1benn/yotpo-go
+go get https://github.com/william1benn/yotpo-go
 ```
 
 _Example Client and Method_
